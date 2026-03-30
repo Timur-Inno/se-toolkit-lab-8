@@ -48,3 +48,4 @@ Paste your checkpoint evidence below. Add screenshots as image files in the repo
      2. Code fix (diff or description)
      3. Post-fix response to "What went wrong?" showing the real underlying failure
      4. Healthy follow-up report or transcript after recovery -->
+## Task 3 completed
